@@ -10,6 +10,8 @@ EC2BOT: Control your basic operations through whatsapp
         <li> 2. Running Instances
         <li> 3. Stop Instances
                 
+                
+<img src="demo.jpeg">                
    
         
           
