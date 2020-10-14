@@ -11,7 +11,7 @@ EC2BOT: Control your basic operations through whatsapp
         <li> 3. Stop Instances
                 
                 
-<img src="demo.jpeg">                
+<img src="Demo.jpeg">                
    
         
           
